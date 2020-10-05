@@ -1,0 +1,40 @@
+{
+  "format_version": [ 1, 1, 0 ],
+
+  "meu:cc_1": {
+    "textures": "cc_1",
+    "sound": "stone"
+  },
+  "meu:cc_2": {
+    "textures": "cc_2",
+    "sound": "stone"
+  },
+  "meu:cc_3": {
+    "textures": "cc_3",
+    "sound": "stone"
+  },
+  "meu:cc_4": {
+    "textures": "cc_4",
+    "sound": "stone"
+  },
+  "meu:cc_5": {
+    "textures": "cc_5",
+    "sound": "stone"
+  },
+  "meu:cc_6": {
+    "textures": "cc_6",
+    "sound": "stone"
+  },
+  "meu:cc_7": {
+    "textures": "cc_7",
+    "sound": "stone"
+  },
+  "meu:cc_8": {
+    "textures": "cc_8",
+    "sound": "stone"
+  },
+  "meu:angel_block": {
+    "textures": "angel_block",
+    "sound": "stone"
+  }
+}

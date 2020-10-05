@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "angel_ring_on": {
+            "textures": "textures/items/angel_ring_on"
+        },
+        "angel_ring_off": {
+            "textures": "textures/items/angel_ring_off"
+        }
+    }
+}

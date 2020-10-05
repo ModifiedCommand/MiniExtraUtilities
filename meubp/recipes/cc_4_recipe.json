@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "meu:cc_4"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"###",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "cmeuc:cc_3"
+			}
+		},
+		"result": [
+			{
+				"item": "meu:cc_4"
+			}
+		]
+	}
+}

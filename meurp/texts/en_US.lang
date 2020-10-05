@@ -1,0 +1,23 @@
+tile.meu:cc_1.name=Compressed Cobblestone
+tile.meu:cc_2.name=Double Compressed Cobblestone
+tile.meu:cc_3.name=Triple Compressed Cobblestone
+tile.meu:cc_4.name=Quadruple Compressed Cobblestone 
+tile.meu:cc_5.name=Quintuple Compressed Cobblestone 
+tile.meu:cc_6.name=Sextuple Compressed Cobblestone 
+tile.meu:cc_7.name=Septuple Compressed Cobblestone
+tile.meu:cc_8.name=Octuple Compressed Cobblestone
+
+item.meu:angel_ring_on.name=Angel Ring / §aOn
+item.meu:angel_ring_off.name=Angel Ring / §cOff
+tile.meu:angel_block.name=Angel Block
+howtoplay.category.angelring=Angel Ring
+
+howtoplay.recipe=§6Info
+howtoplay.recipe.title=§6Info
+
+about.header.title0=About
+info.text0=The Angel Ring Addon Was Made By SirQuackTH XD 
+info.text1=§cYou§rTube: SirQuackTH XD
+info.text2=§6Omlet Arcade§r: xpanawattvx
+recipe.header.title0=Recipes
+info.text3=Crouch To Use All The Items And Blocks

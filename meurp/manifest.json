@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+  "header": {
+    "name": "Mini Extra Utilities 1.0.0 Resources",
+    "description": "Mini Extra Utilities 1.0.0 Resources",
+    "uuid": "a2f7566d-6bc5-4807-a9f9-52019f9fa916",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "a7ab42f5-9340-45d4-95d1-9bdb785394d2",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
